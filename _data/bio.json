@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Krizel Tomines",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/images/krizel.jng",
+    "email": "ktomines@hawaii.edu",
+    "phone": "",
+    "website": "https://ktomines.github.io",
+    "summary": "I am studying for a B.A. in Marketing and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": "",
+      "address": "2591 Dole St.",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,48 +17,36 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "ktomines",
+        "url": "http://github.com/ktomines"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "queenkrii",
+        "url": "http://instagram.com/queenkrii"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "dancing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "painting",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "boba",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Communication and Time-Management",
       "level": "",
       "keywords": [
         "C",
