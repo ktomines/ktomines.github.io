@@ -90,10 +90,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Prepare drinks correctly using set recipes"
+        "Prepare drinks correctly using set recipes",
         "Clean and sanitize work areas, utensils and equipment"
-      ]
-    },
+        ]
+      }
     {
       "company": "Sodexo",
       "position": "Marketing Intern",
@@ -104,7 +104,7 @@
       "highlights": [
         "Maintain social media pages",
         "Organize and run on-campus events"
-    ]
+      ]
     }
   ],
   "volunteer": [
