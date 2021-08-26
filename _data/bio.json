@@ -105,7 +105,7 @@
         "Maintain social media pages",
         "Organize and run on-campus events"
     ]
-  },
+    }
   ],
   "volunteer": [
     {
@@ -115,7 +115,7 @@
       "startDate": "2021-07-17",
       "endDate": "",
       "summary": "",
-    "highlights": [
+      "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
