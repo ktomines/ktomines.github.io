@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Growing up in the Silicon Valley
+title: Why MIS
 date: 2021-07-25
 labels:
   - Career
