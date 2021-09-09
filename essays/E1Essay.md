@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: A Great Fun Start
 date: 2021-09-08
 labels:
   - WOD
